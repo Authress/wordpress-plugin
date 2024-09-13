@@ -44,3 +44,6 @@ Likewise the admin menu is at: `http://localhost:8080/wp-admin.php`
     * Authress_Sso_Login_LoginManager.php - Logic for handling authentication
 * /wordpress
     * Configuration files for the WordPress plugin on WordPress.org
+ 
+### Wordpress Plugin Management
+* [Authress WordPress Plugin Login](https://profiles.wordpress.org/authress/)
